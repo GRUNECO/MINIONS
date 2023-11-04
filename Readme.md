@@ -7,5 +7,5 @@ en el cual se toman características de temperatura, nivel de CO2, intensidad de
 Se presenta:
 
 1. Análisis exploratorio de los datos
-2. Prueba de dos modelos de clasificación multiclase
+2. Prueba de modelos de clasificación multiclase
 3. Selección de modelo y métricas de evaluación.
